@@ -1,0 +1,2 @@
+Backend :- % uvicorn main:app --reload
+Frontend :- rpm start
